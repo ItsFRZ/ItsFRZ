@@ -1,4 +1,8 @@
 # Faraz Sheikh 👨‍💻
+<details>
+  <summary>Click to 😄</summary>
+  
+  
 
 [![Twitter Badge](https://img.shields.io/badge/-@Its_FRZ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Its_FRZ)](https://twitter.com/Its_FRZ) [![Linkedin Badge](https://img.shields.io/badge/-ItsFRZ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsfrz/)](https://www.linkedin.com/in/itsfrz/) [![Medium Badge](https://img.shields.io/badge/-@ItsFRZ-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@faraz.ar.sheikh/)](https://medium.com/@faraz.ar.sheikh/)
 [![Gmail Badge](https://img.shields.io/badge/-faraz.ar.sheikh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faraz.ar.sheikh@gmail.com)](mailto:faraz.ar.sheikh@gmail.com)
@@ -20,9 +24,14 @@ I'm Faraz Sheikh, Student at 👨‍💻 G.H Raisoni University Pursuing B.Tech.
 - ⚡ Fun fact: I love meeting new people and chit chating! 
 - 💬 Ping Me about #android, #web, #angular, #php, #writing opportunity, and anything you like
 ---
+
+
+</details>
+
 <!--
 **ItsFRZ/ItsFRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤔
 
 -->
+
