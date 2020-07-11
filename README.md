@@ -17,7 +17,7 @@ I'm Faraz Sheikh, Student at 👨‍💻 G.H Raisoni University Pursuing B.Tech.
 
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917796224997)
-- ⚡ Fun fact: I love meeting new people and eating food! 
+- ⚡ Fun fact: I love meeting new people and chit chating! 
 - 💬 Ping Me about #android, #web, #angular, #php, #writing opportunity, and anything you like
 ---
 <!--
