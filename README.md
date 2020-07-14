@@ -1,4 +1,5 @@
-# Faraz Sheikh 👨‍💻
+# Faraz Sheikh 👨‍💻  
+
 
   
 
@@ -32,3 +33,4 @@ I'm Faraz Sheikh, Student at 👨‍💻 G.H Raisoni University Pursuing B.Tech.
 
 -->
 
+[![HitCount](http://hits.dwyl.com/ItsFRZ/ItsFRZ.svg)](http://hits.dwyl.com/ItsFRZ/ItsFRZ)
