@@ -35,3 +35,8 @@ I'm Faraz Sheikh, Student at 👨‍💻 G.H Raisoni University Pursuing B.Tech.
 
 [![HitCount](http://hits.dwyl.com/ItsFRZ/ItsFRZ.svg)](http://hits.dwyl.com/ItsFRZ/ItsFRZ)
 -->
+
+<a href="https://dev.to/itsfrz">
+  <img style="border-radius : 50%;" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Faraz Sheikh's DEV Profile" height="30" width="30">
+</a>
+    
