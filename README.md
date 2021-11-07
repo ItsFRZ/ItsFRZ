@@ -40,3 +40,7 @@ I'm Faraz Sheikh, Student at 👨‍💻 G.H Raisoni University Pursuing B.Tech.
   <img style="border-radius : 50%;" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Faraz Sheikh's DEV Profile" height="30" width="30">
 </a>
     
+       
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsFRZ&label=Profile%20views&color=ce9927&style=flat" alt="ItsFRZ" /> </p>
+
+                                 
